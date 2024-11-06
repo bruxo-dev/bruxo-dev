@@ -41,9 +41,9 @@ Aprendendo novas habilidades na <a href="https://www.codecademy.com/">Codecademy
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bruxo-dev)](https://github.com/rodrigormjo)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bruxo-dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruxo-dev&layout=compact)](https://github.com/bruxo-dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruxo-dev&layout=compact)
 
 
 <!---
