@@ -13,7 +13,9 @@ Aprendendo novas habilidades na <a href="https://www.codecademy.com/">Codecademy
 
 ### Contato:
 
+<!--
 <a href=""><img align="left" src="./img/linkedin.png" alt="bruxo-dev | LinkedIn" width="21px"/></a>
+-->
 <a href="mailto: rmjo.inbox@gmail.com"><img align="left" src="./img/gmail.png" alt="bruxo-dev | Gmail" width="21px"/></a>
 
 </br>
